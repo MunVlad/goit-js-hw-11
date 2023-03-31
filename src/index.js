@@ -1,5 +1,5 @@
 import { Notify } from 'notiflix';
-const axios = require('axios').default;
+import axios from 'axios';
 // Описан в документации
 import SimpleLightbox from 'simplelightbox';
 // Дополнительный импорт стилей
